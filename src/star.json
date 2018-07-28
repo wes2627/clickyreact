@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "octans.jpg"
+    },
+    {
+      "id": 2,
+      "image": "aquila.jpeg"
+    },
+    {
+      "id": 3,
+      "image": "constellations-september.jpg"
+    },
+    {
+      "id": 4,
+      "image": "corona-australis.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "crux.jpg"
+    },
+    {
+      "id": 6,
+      "image": "draco.jpg"
+    },
+    {
+      "id": 7,
+      "image": "grus.jpg"
+    },
+    {
+      "id": 8,
+      "image": "menu-cassiopeio.jpg"
+    },
+    {
+      "id": 9,
+      "image": "octans.jpg"
+    },
+    {
+      "id": 10,
+      "image": "october.jpg"
+    },
+    {
+      "id": 11,
+      "image": "october2.JPG"
+    },
+    {
+      "id": 12,
+      "image": "scutum.jpg"
+    }
+  ]
