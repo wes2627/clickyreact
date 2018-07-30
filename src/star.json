@@ -5,11 +5,11 @@
     },
     {
       "id": 2,
-      "image": "aquila.jpeg"
+      "image": "aquila.jpg"
     },
     {
       "id": 3,
-      "image": "constellations-september.jpg"
+      "image": "aquila.jpg"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
     },
     {
       "id": 8,
-      "image": "menu-cassiopeio.jpg"
+      "image": "draco.jpg"
     },
     {
       "id": 9,
@@ -37,14 +37,14 @@
     },
     {
       "id": 10,
-      "image": "october.jpg"
+      "image": "octans.jpg"
     },
     {
       "id": 11,
-      "image": "october2.JPG"
+      "image": "crux.jpg"
     },
     {
       "id": 12,
-      "image": "scutum.jpg"
+      "image": "grus.jpg"
     }
   ]

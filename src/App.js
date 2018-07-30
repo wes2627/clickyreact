@@ -43,7 +43,7 @@ class App extends Component {
           ),
           score: this.state.score + 1
         },
-//if you get all constellations corrent you get a congrats message and the game resets        
+//if you get all constellations correct you get a message        
         () => {
           if (this.state.score === 12) {
             alert("You Win!");
@@ -60,7 +60,6 @@ class App extends Component {
     }
   };
 
-//the order of components to be rendered: navbar, jumbotron, starcard, footer 
   render() {
     return (
       <div>
